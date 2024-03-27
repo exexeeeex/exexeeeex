@@ -1,4 +1,5 @@
-### Hi there 👋
+МИНЕТ - 500
+КЛАССИКА - 200
 
 <!--
 **exexeeeex/exexeeeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
