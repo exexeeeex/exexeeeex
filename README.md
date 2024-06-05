@@ -6,3 +6,5 @@
 </br>
 >
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=black)
+</br>
+https://github-readme-stats.vercel.app/api?username=exexeeeex&show_icons=true&theme=transparent
