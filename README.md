@@ -57,16 +57,6 @@
   <img src="https://streak-stats.demolab.com?user=exexeeeex&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/exexeeeex/exexeeeex/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 * Fullstack event platform
