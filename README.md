@@ -1,11 +1,83 @@
-<h1 align="center">Welcome, guys!</h1>
+<h1 align="center">Hi, I'm exexeeeex 👋</h1>
 
-## Skils
->
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logoColor=white&color=black) ![TYPESCRIPT](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%4169e1&color=black) ![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=black) ![NEXT](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB&color=black) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=black) ![.NET-CORE](https://img.shields.io/badge/.NET%20CORE-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=black)
-</br>
->
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=black)
-</br>
-## Stats </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=exexeeeex&show_icons=true&theme=dark)
+<p align="center">
+  Fullstack Developer focused on modern web applications
+</p>
+
+<p align="center">
+  React • TypeScript • Node.js • NestJS • PostgreSQL • Redis • Docker
+</p>
+
+---
+
+## 🚀 About Me
+
+* Fullstack developer
+* Building scalable web applications
+* Interested in backend architecture and realtime systems
+* Working with REST API, WebSockets and modern frontend stack
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,redux,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exexeeeex&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exexeeeex&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=exexeeeex&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/exexeeeex/exexeeeex/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+* Fullstack event platform
+* Telegram WebApp
+* Realtime chat application
+* Admin dashboards
+* REST API services
+
+---
+
+## 📫 Contacts
+
+* Telegram: @your_username
+* Email: [yourmail@example.com](mailto:yourmail@example.com)
