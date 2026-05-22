@@ -69,5 +69,4 @@
 
 ## 📫 Contacts
 
-* Telegram: @your_username
-* Email: [yourmail@example.com](mailto:yourmail@example.com)
+* Telegram: @expensiverage
