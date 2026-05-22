@@ -4,10 +4,6 @@
   Fullstack Developer focused on modern web applications
 </p>
 
-<p align="center">
-  React • TypeScript • Node.js • NestJS • PostgreSQL • Redis • Docker
-</p>
-
 ---
 
 ## 🚀 About Me
